@@ -1,5 +1,4 @@
-Chapter 5: Encouraging Ownership and Accountability: Encouraging Accountability for Individual and Team Performance
-===================================================================================================================
+# Encouraging Accountability for Individual and Team Performance
 
 Encouraging ownership and accountability is a critical component of employee empowerment. In this chapter, we will explore the importance of encouraging accountability for individual and team performance.
 

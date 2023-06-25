@@ -1,4 +1,4 @@
-Introduction: Purpose of the Book
+Purpose of the Book
 =================================
 
 The purpose of this book is to provide a comprehensive guide for organizations looking to empower their employees for greater engagement and job satisfaction. We will explore the key elements of employee empowerment, including autonomy and decision-making power, access to resources and support, and trust and collaboration.

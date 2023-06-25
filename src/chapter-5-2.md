@@ -1,5 +1,4 @@
-Chapter 4: Delegating Authority and Responsibility: Providing the Necessary Resources and Support
-=================================================================================================
+# Providing the Necessary Resources and Support
 
 Delegating authority and responsibility is a critical component of employee empowerment. In this chapter, we will explore the importance of providing the necessary resources and support for effective delegation.
 

@@ -1,5 +1,4 @@
-Chapter 4: Delegating Authority and Responsibility: Identifying Tasks and Responsibilities that can be Delegated
-================================================================================================================
+# Identifying Tasks and Responsibilities that can be Delegated
 
 Delegating authority and responsibility is a critical component of employee empowerment. In this chapter, we will explore the key elements of identifying tasks and responsibilities that can be delegated.
 

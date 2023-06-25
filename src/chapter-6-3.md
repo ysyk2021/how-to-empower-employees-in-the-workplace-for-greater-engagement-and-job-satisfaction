@@ -1,5 +1,4 @@
-Chapter 5: Encouraging Ownership and Accountability: Providing Constructive Feedback and Recognition
-====================================================================================================
+# Providing Constructive Feedback and Recognition
 
 Encouraging ownership and accountability is key to empowering employees in the workplace. By providing constructive feedback and recognition, organizations can support their employees in taking ownership of their work and being accountable for their performance.
 

@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Modeling Empowering Behaviors and Attitudes
-==========================================================================
+# Modeling Empowering Behaviors and Attitudes
 
 Leadership plays a critical role in empowering employees in the workplace. In this chapter, we will explore the importance of modeling empowering behaviors and attitudes as a key component of leadership support.
 
