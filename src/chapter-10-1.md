@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 In this book, we have explored the importance of empowering employees in the workplace for greater engagement and job satisfaction. Here are the key points covered:
