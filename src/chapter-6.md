@@ -1,5 +1,3 @@
-Chapter 5: Encouraging Ownership and Accountability
-===================================================
 
 Encouraging ownership and accountability is critical for empowering employees in the workplace. In this chapter, we will explore the key elements of encouraging ownership and accountability for greater employee empowerment.
 

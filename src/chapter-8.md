@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Leadership plays a critical role in supporting employee empowerment. In this chapter, we will explore the ways in which leaders can support and encourage employee empowerment.
 

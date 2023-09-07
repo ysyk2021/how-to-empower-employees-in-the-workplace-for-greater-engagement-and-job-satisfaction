@@ -1,5 +1,3 @@
-Chapter 4: Delegating Authority and Responsibility
-==================================================
 
 Delegating authority and responsibility is a critical component of empowering employees in the workplace. In this chapter, we will explore the key elements of delegating authority and responsibility for greater employee empowerment.
 

@@ -1,5 +1,3 @@
-Chapter 3: Creating a Positive Work Environment
-===============================================
 
 Creating a positive work environment is critical for empowering employees in the workplace. In this chapter, we will explore the key elements of creating a positive work environment for greater employee empowerment.
 

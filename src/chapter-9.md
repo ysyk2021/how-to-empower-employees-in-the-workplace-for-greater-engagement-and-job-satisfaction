@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 As organizations continue to prioritize employee empowerment, there are many new innovations and challenges on the horizon. In this chapter, we will explore the future directions of empowering employees in the workplace.
 
