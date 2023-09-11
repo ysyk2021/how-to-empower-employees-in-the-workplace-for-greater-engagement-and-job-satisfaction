@@ -1,5 +1,4 @@
-Chapter: Modeling Empowering Behaviors and Attitudes
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating a culture of employee empowerment requires leaders and managers to model behaviors and attitudes that foster engagement and job satisfaction. This chapter explores the importance of modeling empowering behaviors and provides strategies for leaders to inspire their teams.
 

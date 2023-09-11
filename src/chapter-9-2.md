@@ -1,5 +1,4 @@
-Chapter: Addressing New Challenges in Employee Empowerment
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's dynamic and evolving work landscape, organizations face new challenges when it comes to empowering employees. This chapter explores some of the emerging challenges and provides strategies to address them effectively.
 

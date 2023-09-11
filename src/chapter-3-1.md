@@ -1,5 +1,4 @@
-Chapter: Understanding the Impact of Employee Empowerment on Business Success
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Employee empowerment is not only beneficial for individual employees but also has a significant impact on the overall success of a business. This chapter explores how empowering employees in the workplace can contribute to organizational growth, productivity, and profitability.
 

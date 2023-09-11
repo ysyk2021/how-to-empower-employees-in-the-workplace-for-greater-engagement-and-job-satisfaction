@@ -1,5 +1,4 @@
-Chapter 4: The Role of Leadership in Supporting Employee Empowerment
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In any organization, leadership plays a critical role in supporting employee empowerment. Effective leaders understand that empowered employees are more engaged, motivated, and satisfied in their jobs. This chapter explores the various ways in which leaders can promote and support employee empowerment within the workplace.
 

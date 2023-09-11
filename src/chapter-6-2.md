@@ -1,5 +1,4 @@
-Chapter: Encouraging Accountability for Individual and Team Performance
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of fostering accountability in the workplace to enhance individual and team performance. By encouraging employees to take ownership of their work, organizations can create a culture of responsibility, leading to increased engagement and job satisfaction.
 

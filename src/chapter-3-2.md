@@ -1,5 +1,4 @@
-Chapter: The Costs of Disempowering Employees
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Disempowering employees in the workplace can have significant costs for organizations, both in terms of financial implications and negative impact on employee engagement and job satisfaction. This chapter explores the various costs associated with disempowering employees and highlights the importance of fostering an empowered work culture.
 

@@ -1,5 +1,4 @@
-Chapter: Establishing Clear Expectations and Guidelines
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Establishing clear expectations and guidelines is crucial for empowering employees in the workplace. When employees have a clear understanding of what is expected of them and how to navigate their roles, they feel empowered to take ownership of their work and contribute effectively. This chapter explores the importance of clear expectations and guidelines, along with strategies for establishing them in the workplace.
 

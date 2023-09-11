@@ -1,5 +1,4 @@
-Chapter: Identifying Tasks and Responsibilities that can be Delegated
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Delegating tasks and responsibilities is a key aspect of empowering employees in the workplace. By effectively distributing workloads and authority, organizations can enhance employee engagement and job satisfaction. This chapter explores strategies for identifying tasks and responsibilities that can be delegated to promote empowerment.
 

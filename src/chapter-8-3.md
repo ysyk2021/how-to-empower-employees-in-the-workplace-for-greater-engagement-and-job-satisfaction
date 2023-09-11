@@ -1,5 +1,4 @@
-Chapter 6: Addressing Challenges and Setbacks
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In any workplace, challenges and setbacks are inevitable. However, how leaders address these obstacles can significantly impact employee engagement and job satisfaction. This chapter explores strategies for effectively addressing challenges and setbacks in the workplace and empowering employees to overcome them.
 

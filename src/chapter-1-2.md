@@ -1,5 +1,4 @@
-Chapter: Overview of Employee Empowerment in the Workplace
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Employee empowerment plays a crucial role in enhancing engagement and job satisfaction within organizations. This chapter provides an overview of employee empowerment, its benefits, and strategies for implementing it effectively in the workplace.
 

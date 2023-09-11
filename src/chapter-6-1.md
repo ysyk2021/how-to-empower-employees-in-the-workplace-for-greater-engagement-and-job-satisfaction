@@ -1,5 +1,4 @@
-Chapter: Empowering Employees to Take Ownership of Their Work
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of empowering employees to take ownership of their work. When employees feel a sense of ownership, they become more engaged, motivated, and committed to achieving organizational goals. This chapter will provide insights and practical strategies for cultivating ownership mentality within the workplace.
 

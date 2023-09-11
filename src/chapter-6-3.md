@@ -1,5 +1,4 @@
-Chapter: Providing Constructive Feedback and Recognition
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of providing constructive feedback and recognition to empower employees in the workplace. Effective feedback and recognition mechanisms play a crucial role in enhancing employee engagement, job satisfaction, and overall organizational success.
 

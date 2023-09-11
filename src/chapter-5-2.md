@@ -1,5 +1,4 @@
-Chapter: Providing the Necessary Resources and Support
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To empower employees in the workplace and enhance their engagement and job satisfaction, it is essential for organizations to provide the necessary resources and support. This chapter delves into strategies for equipping employees with the tools, information, and assistance they need to thrive in their roles and feel empowered.
 

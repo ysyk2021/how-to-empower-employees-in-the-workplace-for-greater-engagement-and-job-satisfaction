@@ -1,5 +1,4 @@
-Chapter: Measuring the Effectiveness of Employee Empowerment Strategies
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To ensure the success and continuous improvement of employee empowerment strategies, it is essential for organizations to measure their effectiveness. This chapter explores various methods and metrics for evaluating the impact of empowerment initiatives on employee engagement and job satisfaction.
 
